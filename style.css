@@ -5,7 +5,6 @@ body {
 }
 
 /* --- header stuff --- */
-
 .header {
     display: flex;
     flex: 1;
@@ -126,4 +125,25 @@ body {
     border-color: #3882f6;
     width: 150px;
     height: 150px;
+}
+
+/* --- testimonial stuff --- */
+.testimonials {
+    background-color: #e5e7eb;
+    padding: 75px 300px;
+}
+
+blockquote {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.author {
+    display: block;
+    font-style: normal;
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
 }
