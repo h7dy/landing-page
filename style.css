@@ -197,3 +197,18 @@ blockquote {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+/* --- footer stuff --- */
+.footer {
+    display: flex;
+    padding: 15px;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+}
+
+.footerInfo {
+    font-size: 18px;
+    color: #e5e7eb;
+}
